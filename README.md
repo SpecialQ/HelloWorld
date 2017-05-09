@@ -1,3 +1,3 @@
 # HelloWorld
 HelloWorld!
-this is a HelloWorld
+this is a Hello World!
